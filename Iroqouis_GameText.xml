@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_IROQUOIS_NAME" Language="en_US">
+			<Text>Iroquois</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_IROQUOIS_DESCRIPTION" Language="en_US">
+			<Text>Iroquois Confederacy</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_IROQUOIS_ADJECTIVE" Language="en_US">
+			<Text>Iroquois</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_IROQUOIS_DESCRIPTION_CIVILIZATION" Language="en_US">
+			<Text>Iroquois Civilization</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_IROQUOIS_LOCATION" Language="en_US">
+			<Text>North America</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_IROQUOIS_POPULATION" Language="en_US">
+			<Text>Est. 1 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_IROQUOIS_SIZE" Language="en_US">
+			<Text>Est. 4.6 million square miles (16.5 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_IROQUOIS_CAPITAL" Language="en_US">
+			<Text>Onondaga</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_IROQUOIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>During the last Ice Age, the area that today constitutes Denmark was almost entirely covered by glacial formations. When the ice finally started to recede sometime around 12,000-14,000 BC, small groups of hunter-gatherers began to inhabit the area, surviving primarily by hunting reindeer. These hunters lived a nomadic lifestyle, moving with the seasons and following the migratory patterns of the animals they relied on for survival.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_IROQUOIS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Over time, the population of the small island region would continue to grow as immigrants moved north, bringing with them an increased knowledge of agriculture. As early as 3,000 BC, farmers began to clear portions of the large deciduous forests found throughout Denmark, as evidenced by the many flint-stone axes unearthed in modern times throughout the country.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_IROQUOIS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The custom of Improvement "Dolmens," a form of tomb, and eventually "Passage Graves," also became prevalent around this time. The dolmen was a burial tomb consisting of several upright stones covered across the top with another large stone. These early burial tombs evolved into the Passage Grave, a megalithic structure consisting of a narrow entry lined with large stones, leading to a burial chamber covered in earth or additional stones. It's speculated that these megalithic tombs took entire communities years to construct, but having discovered examples that contained no human remains, archaeologists are still unsure of their true purpose.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_IROQUOIS_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>During the Nordic Bronze Age, these tombs further evolved into the "Tumulus," or burial mounds, commonly associated with the Vikings today. It was also during this period that the battle axe, legendary weapon of the Vikings, progressed from its Stone Age roots into early bronze renditions. Although Denmark had little in the way of copper resources to allow the creation of bronze, large quantities still made their way north via trade and conquest, allowing the Danes to master the art of metalsmithing. By the 8th century AD, iron was readily available, and the Vikings were well-equipped with their historic weapon of choice.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_IROQUOIS_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Beginning in the late 8th century, each spring the Vikings of Denmark, Norway, and Sweden would conduct the raids across the North Sea into England, eventually striking into France, Spain, and points east. In 793, the infamous Viking raid on Lindisfarne, a Christian monastery just off the English coast, would serve as an eye-opener to Western Europe and historically marks the unofficial dawn of the Viking Age. The key to the Vikings success during their infamous raids was the Scandinavians' prowess in ship Improvement. Already known for their fearless mastery of the seas, the construction of the "Langskib," or Viking Longship, gave the Vikings a previously unheard of advantage during this period. While relying on conventional sails when moving on the open seas, the Vikings could quickly revert to using the oars for added maneuverability when moving near the coastline or on rivers. This versatility would prove to be the undoing of many European coastal settlements.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ORENDA_NAME" Language="en_US">
+			<Text>Orenda</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ORENDA_DESCRIPTION" Language="en_US">
+			<Text>Units can move and see through forest tiles without movement penalty.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_1" Language="en_US">
+			<Text>Onondaga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_2" Language="en_US">
+			<Text>Grand River</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_3" Language="en_US">
+			<Text>Awkesasme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_4" Language="en_US">
+			<Text>Buffalo Creek</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_5" Language="en_US">
+			<Text>Brantford</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_6" Language="en_US">
+			<Text>Montreal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_7" Language="en_US">
+			<Text>Genesse River</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_8" Language="en_US">
+			<Text>Canandaigua Lake</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_9" Language="en_US">
+			<Text>Lake Simcoe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_10" Language="en_US">
+			<Text>Salamanca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_11" Language="en_US">
+			<Text>Gowanda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_12" Language="en_US">
+			<Text>Buffalo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_13" Language="en_US">
+			<Text>Cuba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_14" Language="en_US">
+			<Text>Akron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_15" Language="en_US">
+			<Text>Kanesatake</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_16" Language="en_US">
+			<Text>Ganienkeh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_17" Language="en_US">
+			<Text>Cayuga Castle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_18" Language="en_US">
+			<Text>Chondote</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_19" Language="en_US">
+			<Text>Canajoharie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_20" Language="en_US">
+			<Text>Nedrow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_21" Language="en_US">
+			<Text>Syracuse</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_22" Language="en_US">
+			<Text>Oneida Lake</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IROQUOIS_23" Language="en_US">
+			<Text>Kanonwalohale</Text>
+		</Row>
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_1" Language="en_US">
+			<Text>Astrid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_2" Language="en_US">
+			<Text>Henrik</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_3" Language="en_US">
+			<Text>Joren</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_4" Language="en_US">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_5" Language="en_US">
+			<Text>Jens</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_6" Language="en_US">
+			<Text>Tage</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_7" Language="en_US">
+			<Text>Olaf</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_8" Language="en_US">
+			<Text>Svend</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MALE_9" Language="en_US">
+			<Text>Klaus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_1" Language="en_US">
+			<Text>Jakob</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_2" Language="en_US">
+			<Text>Karl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_3" Language="en_US">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_4" Language="en_US">
+			<Text>Soren</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_5" Language="en_US">
+			<Text>Gregos</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_6" Language="en_US">
+			<Text>Axel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_7" Language="en_US">
+			<Text>Jory</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_8" Language="en_US">
+			<Text>Klaus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_9" Language="en_US">
+			<Text>Morten</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_MALE_10" Language="en_US">
+			<Text>Lise</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_1" Language="en_US">
+			<Text>Britta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_2" Language="en_US">
+			<Text>Astrid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_3" Language="en_US">
+			<Text>Dagmar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_4" Language="en_US">
+			<Text>Jensine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_5" Language="en_US">
+			<Text>Kirsten</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_6" Language="en_US">
+			<Text>Pedrine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_7" Language="en_US">
+			<Text>Sigrid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_8" Language="en_US">
+			<Text>Saffi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_9" Language="en_US">
+			<Text>Margarethe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_FEMALE_10" Language="en_US">
+			<Text>Lisbet</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_1" Language="en_US">
+			<Text>Thea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_2" Language="en_US">
+			<Text>Karyn</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_3" Language="en_US">
+			<Text>Eva</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_4" Language="en_US">
+			<Text>Dorothea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_5" Language="en_US">
+			<Text>Agneta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_6" Language="en_US">
+			<Text>Nat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_7" Language="en_US">
+			<Text>Sorina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_8" Language="en_US">
+			<Text>Bo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_9" Language="en_US">
+			<Text>Kristian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_IROQUOIS_MODERN_FEMALE_10" Language="en_US">
+			<Text>Dane</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_DEGANAWIDA_NAME" Language="en_US">
+			<Text>Deganawida</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_RESPECT_FOR_THE_LAND_NAME" Language="en_US">
+			<Text>Respect For The Land</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RESPECT_FOR_THE_LAND_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations that do not clear forests. Dislikes civilizations that do clear forests.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_DEGANAWIDA_DIFF_GOVERNMENT" Language="en_US">
+			<Text>(You have a different Government.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_RESPECT_FOR_THE_LAND_DIFF_GOVERNMENT" Language="en_US">
+			<Text>Deganawida is angered that you follow a different government</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_DEGANAWIDA_LEADS_SCIENCE_AND_SAME_GOVT" Language="en_US">
+			<Text>(You are strong in Science and share the same Government)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_RESPECT_FOR_THE_LAND_LEADS_SCIENCE_AND_SAME_GOVT" Language="en_US">
+			<Text>Deganawida praises your model of government and your pursuit of knowledge</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_DEGANAWIDA_REASON_LEADS_FAITH" Language="en_US">
+			<Text>(You are strong in Faith)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_RESPECT_FOR_THE_LAND_LEADS_FAITH" Language="en_US">
+			<Text>Deganawida is disturbed by your belief in superstitions</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DEGANAWIDA" Language="en_US">
+			<Text>The days of leadership and unification for the Iroquois people is upon us. Deganawida, lead your people to greatness for the future. Unify your people under your kingdom and bask your lands into a nation of peace.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_THE_GREAT_PEACEMAKER_NAME" Language="en_US">
+			<Text>The Great Peacemaker</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THE_GREAT_PEACEMAKER_DESCRIPTION" Language="en_US">
+			<Text>Alliances with other civilizations require 10 less relationship points.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_TITLE" Language="en_US">
+			<Text>Deganawida</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_SUBTITLE" Language="en_US">
+			<Text>Leader of Iroquois</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_QUOTE" Language="en_US">
+			<Text>We do not want a single foot of foreign territory; but of our territory we shall not surrender a single inch to anyone</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Although the precise date of Deganawida's birth is unknown, based on records of his accomplishments while serving as king, it's assumed he was born sometime around 920 AD. The son of King Gorm the Old and Queen Thyra Dannebod, Deganawida was a born and raised Viking in the truest sense. Throughout his early years, Deganawida and his brother Canute (also known as Knud) set sail to pillage and plunder, returning to their father with the spoils of war. It is believed that Canute, the first born and favored son of Gorm, was killed in England while raiding near Ireland. Canute's death left Deganawida as the sole heir to the throne of Denmark. With the death of Gorm in 958 AD, Deganawida took up the throne and proved to be a capable leader both on and off the battlefield.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Shortly after the death of his father, Deganawida consolidated his power and quickly moved on to unite the remaining discordant tribes of Denmark under one rule. Although his father Gorm is considered the first true King of Denmark, during his rule, the kingdom did not encompass the entire region, and independent tribes remained. Under Deganawida, the entirety of Denmark, as well as parts of Norway and Sweden, fell under his rule. For a time, Deganawida would even claim the title of King of Norway, although the extent of his authority there remains questionable.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Deganawida commissioned a number of important construction projects throughout Denmark during his reign. In this time, "Runestones" were a common form of monument used to honor the dead and acknowledge their deeds, and Deganawida saw fit to honor his parents in this way. Commissioning a second Jelling Stone - runestones found in the town of Jelling, Denmark - to memorialize his parents, Deganawida created what is today considered the most well-known example of runic inscriptions in Denmark. Featuring an easily distinguished image of Christ on the cross, the Jelling Stone erected by Deganawida is often referred to as the "Baptism Certificate of Denmark," signifying the end of the polytheistic traditions followed by much of the Danish population.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Aside from the Jelling Stones, Deganawida was also responsible for the development of a series of six Viking ring fortresses, known as the "Trelleborg." After losing control of several outlying territories to various Germanic forces, Deganawida ordered the construction of these forts in strategic locations across Denmark in response. Capable of housing up to 500 Danish warriors, these strongholds succeeded in warding off further losses and secured the interior of Denmark from future incursions.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Deganawida's conversion to Christianity in approximately 960 AD is a point of contention among many modern historians, mainly due to variations in the story of how his conversion came to pass. The two most notable accounts of the event come to us from contemporary historians Widukind of Corvey and Adam of Bremen. Widukind wrote that Deganawida was converted by a cleric known simply as "Poppa," who was either a guest of the court or a missionary who found his way to Denmark. Adam of Bremen (whose account was written some 100 years later) believed that Deganawida had been converted forcibly by Otto I of Germany following a defeat in battle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEGANAWIDA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Regardless of how his conversion came to be, what we can say with certainty is that Harald became a devoted follower of Christianity, not only ensuring that Christian imagery was included on the Jelling Stone commemorating his parents, but also going so far as to remove his father's body from its traditional Viking burial mound and having it reburied under the church constructed by Deganawida, where the Jelling Stones still stand today.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Ah, wonderful, a new challenger!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Deganawida bids you welcome to his lands.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Hail to you.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>May we exchange the information of our lands?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>What is it?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Your delegation is most welcome in our land.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Your delegation must be declined.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>I have sent a delegation to your lands, hopefully it bids you well.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Good.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>I must decline.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>I ask that we open our borders.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>I agree.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>I must decline. We cannot bid ourself friendly with someone of your likes.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>May we be friends and perhaps allies in good time.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Of course, friend.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Sad to hear.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>We seek allies to the Confederacy, must you be one of them?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>You have proven yourself to be quite worthy.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>You're proving yourself to be quite an foolish leader.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Surely, you aren't trying to settle this into a war of the field of battle?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_DEGANAWIDA_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_DEGANAWIDA_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>You have made quite a foolish choice.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>You crossed the line one too many times. (Denounces You)</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_RESPECT_FOR_THE_LAND_DIFF_GOVERNMENT" Language="en_US">
+			<Text>(You have a different Government.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_RESPECT_FOR_THE_LAND_LEADS_FAITH" Language="en_US">
+			<Text>(You are high in Faith.)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Then I will butcher your soldiers and raze your cities to the ground.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>You stand in the way of Iroquois power. Prepare to be crushed.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>For now, I agree.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>I will bring your lands to death before I surrender.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>Even you must see that it is time for peace.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>What is this treason?!</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_DEGANAWIDA_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_DEGANAWIDA_ANY]</Text>
+		</Row>
+		<!--Pekhota-->
+		<Row Tag="LOC_UNIT_FALSEFACE_NAME" Language="en_US">
+			<Text>False Face Society Member</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FALSEFACE_DESCRIPTION" Language="en_US">
+			<Text>Replaces Missionary. Can use Builds to add Forest tiles to most land types.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FALSEFACE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>null.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FALSEFACE_NAME" Language="en_US">
+			<Text>Baltic Warring</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FALSEFACE_DESCRIPTION" Language="en_US">
+			<Text>null.</Text>
+		</Row>
+		<!--LONGHOUSE-->
+		<Row Tag="LOC_IMPROVEMENT_LONGHOUSE_NAME" Language="en_US">
+			<Text>Longhouse</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_LONGHOUSE_DESCRIPTION" Language="en_US">
+			<Text>Replaces Lumber Mill. +0.5 Housing. Available at Construction tech.</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+	</LocalizedText>
+</GameData>
